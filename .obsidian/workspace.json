@@ -1,0 +1,209 @@
+{
+  "main": {
+    "id": "02de9444de414eda",
+    "type": "split",
+    "children": [
+      {
+        "id": "5b394f7dbab20ec5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0052c31832b06f72",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "backend/databases/elastic_search/3. Data modeling.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "de715289ed04b542",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "backend/databases/elastic_search/4. Flattened datatype.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b0deb1a38f695638",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "backend/databases/elastic_search/5. Mapping exceptions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a7323f52e6f07ffd",
+    "type": "split",
+    "children": [
+      {
+        "id": "c44ecaa0069e7a0b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3d3d2696c86edfbd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0f02fa73730944e9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8fd52e9bb2a5bb41",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "1bf2c012c27cdbf6",
+    "type": "split",
+    "children": [
+      {
+        "id": "72c6140bfcb5a92c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "90982a3b2847efb7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "backend/databases/elastic_search/5. Mapping exceptions.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "063abae647fe896f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "backend/databases/elastic_search/5. Mapping exceptions.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "141a40ce239d1346",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6274cdba94c8a101",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "backend/databases/elastic_search/5. Mapping exceptions.md"
+              }
+            }
+          },
+          {
+            "id": "341a93bc5691df8e",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "3d3d2696c86edfbd",
+  "lastOpenFiles": [
+    "backend/databases/elastic_search/images/Pasted image 20230502144103.png",
+    "backend/databases/elastic_search/images/Pasted image 20230502144039.png",
+    "backend/databases/elastic_search/images/Pasted image 20230502144007.png",
+    "backend/databases/elastic_search/4. Flattened datatype.md",
+    "backend/databases/elastic_search/5. Mapping exceptions.md",
+    "backend/databases/elastic_search/images/Supported queries for Flattened Datatype.png",
+    "backend/databases/elastic_search/images",
+    "Untitled",
+    "backend/databases/elastic_search/3. Data modeling.md",
+    "backend/databases/elastic_search/2. Analyzers.md",
+    "backend/databases/elastic_search/1. Indexing.md",
+    "Untitled.md",
+    "backend/databases/elastic_search/data/tags.csv",
+    "backend/databases/elastic_search/data/ratings.csv",
+    "backend/databases/elastic_search/data/movies.csv",
+    "backend/databases/elastic_search/data/links.csv",
+    "backend/databases/elastic_search/data/README.txt",
+    "backend/databases/elastic_search/data",
+    "ml-latest-small/movies.csv",
+    "ml-latest-small/README.txt",
+    "Roadmap.md",
+    "Roadmap.md",
+    "2023-04-26.md",
+    "Untitled.canvas"
+  ]
+}
