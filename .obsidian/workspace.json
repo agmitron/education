@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "5b394f7dbab20ec5",
+        "id": "60e7558fc1001735",
         "type": "tabs",
         "children": [
           {
-            "id": "0052c31832b06f72",
+            "id": "5d8816264c0a044e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "backend/databases/elastic_search/3. Data modeling.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "de715289ed04b542",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "backend/databases/elastic_search/4. Flattened datatype.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b0deb1a38f695638",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "backend/databases/elastic_search/5. Mapping exceptions.md",
+                "file": "backend/databases/elastic_search/6. Search in depth.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 287.5
   },
   "right": {
     "id": "1bf2c012c27cdbf6",
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "backend/databases/elastic_search/5. Mapping exceptions.md",
+                "file": "backend/databases/elastic_search/6. Search in depth.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "backend/databases/elastic_search/5. Mapping exceptions.md",
+                "file": "backend/databases/elastic_search/6. Search in depth.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "backend/databases/elastic_search/5. Mapping exceptions.md"
+                "file": "backend/databases/elastic_search/6. Search in depth.md"
               }
             }
           },
@@ -179,17 +154,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3d3d2696c86edfbd",
+  "active": "5d8816264c0a044e",
   "lastOpenFiles": [
+    "backend/databases/elastic_search/0. Environment.md",
+    "backend/databases/elastic_search/6. Search in depth.md",
+    "backend/databases/elastic_search/images/Pasted image 20230503151315.png",
+    "backend/databases/elastic_search/images/Pasted image 20230503150934.png",
+    "backend/databases/elastic_search/images/Pasted image 20230503150952.png",
+    "backend/databases/elastic_search/3. Data modeling.md",
+    "backend/databases/elastic_search/4. Flattened datatype.md",
+    "backend/databases/elastic_search/5. Mapping exceptions.md",
     "backend/databases/elastic_search/images/Pasted image 20230502144103.png",
     "backend/databases/elastic_search/images/Pasted image 20230502144039.png",
     "backend/databases/elastic_search/images/Pasted image 20230502144007.png",
-    "backend/databases/elastic_search/4. Flattened datatype.md",
-    "backend/databases/elastic_search/5. Mapping exceptions.md",
     "backend/databases/elastic_search/images/Supported queries for Flattened Datatype.png",
     "backend/databases/elastic_search/images",
     "Untitled",
-    "backend/databases/elastic_search/3. Data modeling.md",
     "backend/databases/elastic_search/2. Analyzers.md",
     "backend/databases/elastic_search/1. Indexing.md",
     "Untitled.md",
