@@ -4,18 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "60e7558fc1001735",
+        "id": "1e22d3d0f449b0ed",
         "type": "tabs",
         "children": [
           {
-            "id": "5d8816264c0a044e",
+            "id": "c3409d3fd900edec",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "backend/databases/elastic_search/6. Search in depth.md",
-                "mode": "source",
-                "source": false
+                "file": "networks/images/Pasted image 20230525224724.png"
               }
             }
           }
@@ -64,6 +62,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "e8c9e61d89f61804",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -85,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "backend/databases/elastic_search/6. Search in depth.md",
+                "file": "networks/images/Pasted image 20230525224724.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "backend/databases/elastic_search/6. Search in depth.md",
+                "file": "networks/images/Pasted image 20230525224724.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "backend/databases/elastic_search/6. Search in depth.md"
+                "file": "networks/images/Pasted image 20230525224724.png"
               }
             }
           },
@@ -154,22 +160,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5d8816264c0a044e",
+  "active": "3d3d2696c86edfbd",
   "lastOpenFiles": [
-    "backend/databases/elastic_search/0. Environment.md",
+    "networks/images/Pasted image 20230525224042.png",
+    "networks/images/Pasted image 20230525223842.png",
+    "networks/images/Pasted image 20230525221916.png",
+    "networks/images/Pasted image 20230525224724.png",
+    "networks/Mask.md",
+    "networks/IPv4.md",
+    "networks/images",
+    "networks/images/Pasted image 20230525221811.png",
+    "backend/databases/elastic_search/8. Index-time With n-grams.md",
+    "networks",
+    "backend/databases/elastic_search/images/Pasted image 20230512155717.png",
     "backend/databases/elastic_search/6. Search in depth.md",
+    "backend/databases/elastic_search/4. Flattened datatype.md",
+    "backend/databases/elastic_search/5. Mapping exceptions.md",
+    "backend/databases/elastic_search/7. Filters.md",
+    "backend/databases/elastic_search/images/Pasted image 20230504184120.png",
+    "backend/databases/elastic_search/0. Environment.md",
     "backend/databases/elastic_search/images/Pasted image 20230503151315.png",
     "backend/databases/elastic_search/images/Pasted image 20230503150934.png",
     "backend/databases/elastic_search/images/Pasted image 20230503150952.png",
     "backend/databases/elastic_search/3. Data modeling.md",
-    "backend/databases/elastic_search/4. Flattened datatype.md",
-    "backend/databases/elastic_search/5. Mapping exceptions.md",
-    "backend/databases/elastic_search/images/Pasted image 20230502144103.png",
-    "backend/databases/elastic_search/images/Pasted image 20230502144039.png",
-    "backend/databases/elastic_search/images/Pasted image 20230502144007.png",
-    "backend/databases/elastic_search/images/Supported queries for Flattened Datatype.png",
     "backend/databases/elastic_search/images",
-    "Untitled",
     "backend/databases/elastic_search/2. Analyzers.md",
     "backend/databases/elastic_search/1. Indexing.md",
     "Untitled.md",
@@ -180,7 +194,6 @@
     "backend/databases/elastic_search/data/README.txt",
     "backend/databases/elastic_search/data",
     "ml-latest-small/movies.csv",
-    "ml-latest-small/README.txt",
     "Roadmap.md",
     "Roadmap.md",
     "2023-04-26.md",
