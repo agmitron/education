@@ -1,0 +1,344 @@
+{
+  "codeStrings": [
+    {
+      "operator": {
+        "type": {
+          "name": "ASSIGN",
+          "regex": "РАВНО"
+        },
+        "text": "РАВНО",
+        "pos": 4
+      },
+      "left": {
+        "variable": {
+          "type": {
+            "name": "VARIABLE",
+            "regex": "[а-я]*"
+          },
+          "text": "код",
+          "pos": 0
+        }
+      },
+      "right": {
+        "operator": {
+          "type": {
+            "name": "PLUS",
+            "regex": "ПЛЮС"
+          },
+          "text": "ПЛЮС",
+          "pos": 19
+        },
+        "left": {
+          "operator": {
+            "type": {
+              "name": "PLUS",
+              "regex": "ПЛЮС"
+            },
+            "text": "ПЛЮС",
+            "pos": 12
+          },
+          "left": {
+            "number": {
+              "type": {
+                "name": "NUMBER",
+                "regex": "[0-9]*"
+              },
+              "text": "5",
+              "pos": 10
+            }
+          },
+          "right": {
+            "number": {
+              "type": {
+                "name": "NUMBER",
+                "regex": "[0-9]*"
+              },
+              "text": "9",
+              "pos": 17
+            }
+          }
+        },
+        "right": {
+          "operator": {
+            "type": {
+              "name": "PLUS",
+              "regex": "ПЛЮС"
+            },
+            "text": "ПЛЮС",
+            "pos": 36
+          },
+          "left": {
+            "operator": {
+              "type": {
+                "name": "MINUS",
+                "regex": "МИНУС"
+              },
+              "text": "МИНУС",
+              "pos": 28
+            },
+            "left": {
+              "number": {
+                "type": {
+                  "name": "NUMBER",
+                  "regex": "[0-9]*"
+                },
+                "text": "4",
+                "pos": 26
+              }
+            },
+            "right": {
+              "number": {
+                "type": {
+                  "name": "NUMBER",
+                  "regex": "[0-9]*"
+                },
+                "text": "6",
+                "pos": 34
+              }
+            }
+          },
+          "right": {
+            "operator": {
+              "type": {
+                "name": "PLUS",
+                "regex": "ПЛЮС"
+              },
+              "text": "ПЛЮС",
+              "pos": 54
+            },
+            "left": {
+              "operator": {
+                "type": {
+                  "name": "MINUS",
+                  "regex": "МИНУС"
+                },
+                "text": "МИНУС",
+                "pos": 45
+              },
+              "left": {
+                "number": {
+                  "type": {
+                    "name": "NUMBER",
+                    "regex": "[0-9]*"
+                  },
+                  "text": "7",
+                  "pos": 43
+                }
+              },
+              "right": {
+                "number": {
+                  "type": {
+                    "name": "NUMBER",
+                    "regex": "[0-9]*"
+                  },
+                  "text": "10",
+                  "pos": 51
+                }
+              }
+            },
+            "right": {
+              "operator": {
+                "type": {
+                  "name": "MINUS",
+                  "regex": "МИНУС"
+                },
+                "text": "МИНУС",
+                "pos": 72
+              },
+              "left": {
+                "operator": {
+                  "type": {
+                    "name": "PLUS",
+                    "regex": "ПЛЮС"
+                  },
+                  "text": "ПЛЮС",
+                  "pos": 64
+                },
+                "left": {
+                  "number": {
+                    "type": {
+                      "name": "NUMBER",
+                      "regex": "[0-9]*"
+                    },
+                    "text": "10",
+                    "pos": 61
+                  }
+                },
+                "right": {
+                  "number": {
+                    "type": {
+                      "name": "NUMBER",
+                      "regex": "[0-9]*"
+                    },
+                    "text": "15",
+                    "pos": 69
+                  }
+                }
+              },
+              "right": {
+                "operator": {
+                  "type": {
+                    "name": "MINUS",
+                    "regex": "МИНУС"
+                  },
+                  "text": "МИНУС",
+                  "pos": 82
+                },
+                "left": {
+                  "number": {
+                    "type": {
+                      "name": "NUMBER",
+                      "regex": "[0-9]*"
+                    },
+                    "text": "5",
+                    "pos": 80
+                  }
+                },
+                "right": {
+                  "number": {
+                    "type": {
+                      "name": "NUMBER",
+                      "regex": "[0-9]*"
+                    },
+                    "text": "1",
+                    "pos": 88
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "operator": {
+        "type": {
+          "name": "LOG",
+          "regex": "КОНСОЛЬ"
+        },
+        "text": "КОНСОЛЬ",
+        "pos": 100
+      },
+      "operand": {
+        "variable": {
+          "type": {
+            "name": "VARIABLE",
+            "regex": "[а-я]*"
+          },
+          "text": "код",
+          "pos": 108
+        }
+      }
+    },
+    {
+      "operator": {
+        "type": {
+          "name": "ASSIGN",
+          "regex": "РАВНО"
+        },
+        "text": "РАВНО",
+        "pos": 125
+      },
+      "left": {
+        "variable": {
+          "type": {
+            "name": "VARIABLE",
+            "regex": "[а-я]*"
+          },
+          "text": "переменная",
+          "pos": 114
+        }
+      },
+      "right": {
+        "operator": {
+          "type": {
+            "name": "PLUS",
+            "regex": "ПЛЮС"
+          },
+          "text": "ПЛЮС",
+          "pos": 135
+        },
+        "left": {
+          "variable": {
+            "type": {
+              "name": "VARIABLE",
+              "regex": "[а-я]*"
+            },
+            "text": "код",
+            "pos": 131
+          }
+        },
+        "right": {
+          "number": {
+            "type": {
+              "name": "NUMBER",
+              "regex": "[0-9]*"
+            },
+            "text": "3",
+            "pos": 140
+          }
+        }
+      }
+    },
+    {
+      "operator": {
+        "type": {
+          "name": "LOG",
+          "regex": "КОНСОЛЬ"
+        },
+        "text": "КОНСОЛЬ",
+        "pos": 144
+      },
+      "operand": {
+        "operator": {
+          "type": {
+            "name": "MINUS",
+            "regex": "МИНУС"
+          },
+          "text": "МИНУС",
+          "pos": 172
+        },
+        "left": {
+          "operator": {
+            "type": {
+              "name": "PLUS",
+              "regex": "ПЛЮС"
+            },
+            "text": "ПЛЮС",
+            "pos": 163
+          },
+          "left": {
+            "variable": {
+              "type": {
+                "name": "VARIABLE",
+                "regex": "[а-я]*"
+              },
+              "text": "переменная",
+              "pos": 152
+            }
+          },
+          "right": {
+            "variable": {
+              "type": {
+                "name": "VARIABLE",
+                "regex": "[а-я]*"
+              },
+              "text": "код",
+              "pos": 168
+            }
+          }
+        },
+        "right": {
+          "number": {
+            "type": {
+              "name": "NUMBER",
+              "regex": "[0-9]*"
+            },
+            "text": "6",
+            "pos": 178
+          }
+        }
+      }
+    }
+  ]
+}
